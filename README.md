@@ -1,2 +1,3 @@
-# lite-bug-tracker-mrxw
-Automated issue comment bot repository
+# Lite Bug Tracker Mrxw
+
+Automated issue comment bot repository.
